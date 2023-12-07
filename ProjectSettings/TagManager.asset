@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 532112691
+    locked: 0
+  - name: Farm Hill
+    uniqueID: 1344994151
+    locked: 0
+  - name: Forest Hill
+    uniqueID: 627462399
+    locked: 0
+  - name: Lake
+    uniqueID: 723793387
+    locked: 0
+  - name: Front Hill
+    uniqueID: 1875362249
+    locked: 0
+  - name: Choices
+    uniqueID: 634511579
+    locked: 0
